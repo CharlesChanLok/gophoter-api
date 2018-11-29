@@ -1,0 +1,3 @@
+Nodemon in docker:
+https://medium.com/lucjuggery/docker-in-development-with-nodemon-d500366e74df
+https://github.com/remy/nodemon#application-isnt-restarting
